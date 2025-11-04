@@ -1,0 +1,12 @@
+---
+name: "刘婧"
+role: "副教授"
+email: "liujing@example.com"
+avatar: "uploads/liujing.jpg"
+bio: "气候变化与生态学研究，专注于气候变化对生态系统的影响。"
+resume: "uploads/liujing_resume.pdf"
+interests:
+  - "气候变化"
+  - "植被生长周期研究"
+---
+
