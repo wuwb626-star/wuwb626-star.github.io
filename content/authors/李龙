@@ -2,7 +2,7 @@
 name: "李龙"
 role: "讲师"
 email: "lilong@example.com"
-avatar: "uploads/lilong.jpg"
+avatar: "uploads/李龙.jpg"
 bio: "植被遥感分析与气候影响，研究遥感技术在农业中的应用。"
 interests:
   - "遥感技术"
