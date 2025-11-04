@@ -25,7 +25,7 @@ sections:
       subtitle: "学生团队"
       members:
         - username: 吴文博
-        - username: s杨凯然
+        - username: 杨凯然
     design:
       columns: 3
 ---
