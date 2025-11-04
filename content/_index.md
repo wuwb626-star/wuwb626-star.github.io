@@ -12,9 +12,9 @@ sections:
       title: "我们的团队"
       subtitle: "教师团队"
       members:
-        - username: yangpeiqi
-        - username: liujing
-        - username: lilong
+        - username: 杨沛琦
+        - username: 刘婧
+        - username: 李龙
     design:
       columns: 3
 
