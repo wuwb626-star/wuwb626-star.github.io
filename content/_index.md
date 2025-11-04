@@ -15,7 +15,7 @@ sections:
         **姓名**: 杨沛琦  
         **职称**: 教授  
         **研究方向**: 遥感与生态学，植被物候变化研究  
-        **联系方式**: yangpeiqi@example.com
+        **联系方式**: yangpeiqi@example.com  
         <button type="button" data-bs-toggle="modal" data-bs-target="#teacher1Modal">
           点击查看详细信息
         </button>
@@ -33,7 +33,7 @@ sections:
         **姓名**: 刘婧  
         **职称**: 副教授  
         **研究方向**: 气候变化与生态学  
-        **联系方式**: liujing@example.com
+        **联系方式**: liujing@example.com  
         <button type="button" data-bs-toggle="modal" data-bs-target="#teacher2Modal">
           点击查看详细信息
         </button>
@@ -51,7 +51,7 @@ sections:
         **姓名**: 李龙  
         **职称**: 讲师  
         **研究方向**: 植被遥感分析与气候影响  
-        **联系方式**: lilong@example.com
+        **联系方式**: lilong@example.com  
         <button type="button" data-bs-toggle="modal" data-bs-target="#teacher3Modal">
           点击查看详细信息
         </button>
@@ -126,3 +126,5 @@ sections:
           </div>
         </div>
       </div>
+---
+
