@@ -24,8 +24,8 @@ sections:
       title: "组员团队"
       subtitle: "学生团队"
       members:
-        - username: student1
-        - username: student2
+        - username: 吴文博
+        - username: s杨凯然
     design:
       columns: 3
 ---
