@@ -1,0 +1,13 @@
+<div class="team">
+  <h2>我们的团队</h2>
+  <div class="team-members">
+    {{ range .Params.team }}
+      <div class="team-member">
+        <img src="{{ .avatar }}" alt="{{ .name }}" class="avatar">
+        <h3>{{ .name }}</h3>
+        <p>{{ .role }}</p>
+        <a href="{{ .url }}" class="btn">查看更多</a>
+      </div>
+    {{ end }}
+  </div>
+</div>
