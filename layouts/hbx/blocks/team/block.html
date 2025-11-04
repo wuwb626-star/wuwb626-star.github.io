@@ -1,0 +1,15 @@
+<!-- layouts/blocks/team/block.html -->
+<div class="team">
+  <h2>我们的团队</h2>
+  <div class="team-members">
+    {{ range .Params.team }}  <!-- 遍历传递过来的 team 数据 -->
+      <div class="team-member">
+        <!-- 显示团队成员头像 -->
+        <img src="{{ .avatar }}" alt="{{ .name }}" class="avatar">
+        <h3>{{ .name }}</h3>
+        <p>{{ .role }}</p> <!-- 显示团队成员职务 -->
+        <a href="{{ .url }}" class="btn">查看更多</a> <!-- 链接到团队成员的个人页面 -->
+      </div>
+    {{ end }}
+  </div>
+</div>
